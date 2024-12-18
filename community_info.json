@@ -1,0 +1,132 @@
+[
+    {
+        "Community Name":"Ardmore Reserve",
+        "HOA Monthly Fee":65,
+        "Property Tax":0.013
+    },
+    {
+        "Community Name":"Bargrove Estates",
+        "HOA Monthly Fee":78,
+        "Property Tax":0.011
+    },
+    {
+        "Community Name":"Beresford Woods",
+        "HOA Monthly Fee":120,
+        "Property Tax":0.0125
+    },
+    {
+        "Community Name":"Bullow Creek",
+        "HOA Monthly Fee":65,
+        "Property Tax":0.0136
+    },
+    {
+        "Community Name":"Celery Oaks",
+        "HOA Monthly Fee":85,
+        "Property Tax":0.0127
+    },
+    {
+        "Community Name":"Country Club Estates",
+        "HOA Monthly Fee":54,
+        "Property Tax":0.0139
+    },
+    {
+        "Community Name":"Cypress Hammock SFH",
+        "HOA Monthly Fee":72,
+        "Property Tax":0.01
+    },
+    {
+        "Community Name":"Cypress Hammock TH",
+        "HOA Monthly Fee":250,
+        "Property Tax":0.01
+    },
+    {
+        "Community Name":"Cypress Oaks",
+        "HOA Monthly Fee":67,
+        "Property Tax":0.0125
+    },
+    {
+        "Community Name":"Davenport Estates",
+        "HOA Monthly Fee":60,
+        "Property Tax":0.014
+    },
+    {
+        "Community Name":"Greenfield Village",
+        "HOA Monthly Fee":75,
+        "Property Tax":0.01
+    },
+    {
+        "Community Name":"Hammock Reserve",
+        "HOA Monthly Fee":52,
+        "Property Tax":0.019
+    },
+    {
+        "Community Name":"Hanover Lakes",
+        "HOA Monthly Fee":102,
+        "Property Tax":0.0165
+    },
+    {
+        "Community Name":"Horse Creek",
+        "HOA Monthly Fee":50,
+        "Property Tax":0.017
+    },
+    {
+        "Community Name":"Lake Lincoln",
+        "HOA Monthly Fee":94,
+        "Property Tax":0.016
+    },
+    {
+        "Community Name":"Legacy Landings",
+        "HOA Monthly Fee":272,
+        "Property Tax":0.01
+    },
+    {
+        "Community Name":"Parkview at The Hills",
+        "HOA Monthly Fee":95,
+        "Property Tax":0.0135
+    },
+    {
+        "Community Name":"Preservation Pointe",
+        "HOA Monthly Fee":65,
+        "Property Tax":0.01
+    },
+    {
+        "Community Name":"Preserve at Sunrise",
+        "HOA Monthly Fee":65,
+        "Property Tax":0.0125
+    },
+    {
+        "Community Name":"Ridgeview",
+        "HOA Monthly Fee":75,
+        "Property Tax":0.01
+    },
+    {
+        "Community Name":"Sky Lake Estates SFH",
+        "HOA Monthly Fee":70,
+        "Property Tax":0.0125
+    },
+    {
+        "Community Name":"Sky Lake Estates TH",
+        "HOA Monthly Fee":232,
+        "Property Tax":0.0125
+    },
+    {
+        "Community Name":"Springwalk at The Junction",
+        "HOA Monthly Fee":85,
+        "Property Tax":0.0125
+    },
+    {
+        "Community Name":"St. Johns Preserve",
+        "HOA Monthly Fee":42,
+        "Property Tax":0.014
+    },
+    {
+        "Community Name":"Sunrise Ridge",
+        "HOA Monthly Fee":40,
+        "Property Tax":0.0125
+    },
+    {
+        "Community Name":"Trinity Lakes",
+        "HOA Monthly Fee":77,
+        "Property Tax":0.015
+    }
+]
